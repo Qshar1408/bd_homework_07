@@ -41,7 +41,7 @@
 ![bd_007](https://github.com/Qshar1408/bd_homework_07/blob/main/img/bd_07_002.png)
 
 ##### Вертикальный шардинг
-Разносим три таблицы по трем отдельным базам/серверам: UsersDB, BooksDB и StoresDB соотвественно. 
+Разносим три таблицы по трем отдельным базам/серверам: DBUsers, DBBooks и DBStores соотвественно. 
 
 ![bd_007](https://github.com/Qshar1408/bd_homework_07/blob/main/img/bd_07_001.png)
 
